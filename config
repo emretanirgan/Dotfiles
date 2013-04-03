@@ -1,0 +1,5 @@
+Host eniac
+
+HostName eniac.seas.upenn.edu
+User emretan
+IdentityFile ~/.ssh/id_rsa2
